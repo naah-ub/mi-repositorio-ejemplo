@@ -1,0 +1,4 @@
+[
+	{"id":3, "nombreSuperheroe": "Black Widow", "nombreReal": "Natasha Romanoff", "nombreSociedad": "Vigilante", "edad": 33, "planetaOrigen": "Tierra", "debilidad": "Humano comun", "poder": ["Maestria en combate", "Espionaje"], "habilidadEspecial": "Entrenamiento de Elite", "aliado": ["Hawkeye"], "enemigo": ["Taskmaster"]},
+	{"id":4, "nombreSuperheroe": "Capitan America", "nombreReal": "Steve Rogers", "nombreSociedad": "Vigilante", "edad": 103, "planetaOrigen": "Tierra", "debilidad": "Humano comun", "poder": ["Fuerza aumentada", "Agilidad"], "habilidadEspecial": "Escudo indestructible", "aliado": ["Buky Barnes"], "enemigo": ["Red Skull"]}
+]
